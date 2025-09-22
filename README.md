@@ -3,4 +3,5 @@
 ## Week 1
 - Practiced Linux commands (gobuster,-w,-u).
 - Completed **TryHackMe Offensive Security Intro**.
-- - Completed **TryHackMe defensive Security Intro**.
+ - Completed **TryHackMe defensive Security Intro**.
+ - Completed **TryHackMe What is Networking**.
